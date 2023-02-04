@@ -1,0 +1,3 @@
+[submodule "GDS2glTF"]
+	path = GDS2glTF
+	url = https://github.com/mbalestrini/GDS2glTF
